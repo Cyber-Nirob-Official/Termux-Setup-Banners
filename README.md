@@ -10,5 +10,5 @@ cd && rm -rf Termux-Setup-Banners && apt-get update && pkg update && pkg upgrade
 ```
 # Banner Design
 ```
-cd && rm -rf Termux-Setup-Banners && apt install ruby -y ; gem install lolcat ; pkg i git -y ; pkg i python -y ; pip install lolcat ; pip install bs4 ; pip2 install bs4 ; pip2 install lolcat ; pkg install lolcat ; pkg install figlet -y ; pkg install figlet ; git clone https://github.com/Cyber-Nirob-Official/Termux-Setup-Banners && cd Termux-Setup-Banners && python2 Cyber-Nirob-Design.py
+cd && rm -rf Termux-Setup-Banners && pkg install ruby ; apt install ruby -y ; gem install lolcat ; pkg i git -y ; pkg i python -y ; pip install lolcat ; pip install bs4 ; pip2 install bs4 ; pip2 install lolcat ; pkg install lolcat ; pkg install figlet -y ; pkg install figlet ; git clone https://github.com/Cyber-Nirob-Official/Termux-Setup-Banners && cd Termux-Setup-Banners && python2 Cyber-Nirob-Design.py
 ```
